@@ -24,7 +24,7 @@ const Model = () => {
         </h1>
 
         <div className="flex flex-col items-center mt-5">
-          <div className="w-full pr-1 h-[75vh] md:h-[90vh] overflow-hidden relative">
+          <div className="w-full h-[75vh] md:h-[90vh] overflow-hidden relative">
             <ModelView />
           </div>
         </div>
